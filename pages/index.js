@@ -68,7 +68,7 @@ function Signin() {
           fontWeight={500}
           textAlign={"center"}
         >
-          Sign Up
+          Sign In
         </Text>
         <Box>
           <FormLabel>Email address</FormLabel>
@@ -90,7 +90,7 @@ function Signin() {
         </Box>
         <Box mt={"40px"}>
           <Button w={"100%"} colorScheme={"blue"} onClick={HandelSubmit}>
-            Summit
+            Submit
           </Button>
         </Box>
       </Box>
